@@ -1,9 +1,9 @@
 #!/bin/bash
 echo "1
 10
-8080
+7664
 
 
 
-" | bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.sh)
+" | bash <(curl -s -L https://raw.githubusercontent.com/Hmgooo/v2/master/install.sh)
 v2ray url
